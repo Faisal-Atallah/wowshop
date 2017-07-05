@@ -1,0 +1,68 @@
+
+
+
+body{
+
+    background-color: snow;
+    font-family: 'Lato', sans-serif;
+
+}
+
+.navbar-toggle{
+
+    background-color: #474747;
+
+    color: white;
+
+}
+
+/*navbar style*/
+.navbar-inverse{
+
+    font-family: 'Lato', sans-serif;
+    background-color:transparent;
+    border-radius: 0;
+    border-bottom: 1px solid #474747;
+    padding: 3%;
+    margin: 0;
+    
+   
+}
+
+
+/*navbar anchor style*/
+.nav.navbar-nav >li>a{
+
+    color:#474747 ;
+
+}
+
+
+
+
+/* navbar list item state  */
+
+/* list item hover   */
+
+.nav.navbar-nav >li>a:hover {
+
+    background-color:#E8175D ;
+
+    color:white;
+
+
+}
+
+/* list item focus*/
+
+.nav.navbar-nav >li>a:focus {
+
+    color:#474747 ;
+
+
+}
+
+
+
+
+

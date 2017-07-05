@@ -1,0 +1,55 @@
+
+/*footer container style */
+footer
+{
+
+    background-color: #474747;
+    color:white;
+    border-top: 1px solid white;
+
+}
+
+
+/* footer list item */
+footer ul li a
+{
+
+    text-decoration: none;
+    color:whitesmoke;
+
+}
+
+/* footer list item  state style*/
+
+/* list itme hoover */
+
+footer ul li a:hover
+{
+
+
+    text-decoration: none;
+    color:#E8175D;
+
+}
+
+/*list item active */
+
+footer ul li a:active{
+
+
+    text-decoration: none;
+    color:#E8175D;
+
+
+}
+
+
+/* list item focus */
+
+footer ul li a:focus{
+
+    text-decoration: none;
+    color:whitesmoke;
+
+
+}

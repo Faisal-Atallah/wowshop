@@ -1,0 +1,24 @@
+
+
+/* map display div */
+#map {
+
+    height: 400px;
+    width: 100%;
+    box-shadow: 2px 2px 7px 8px #2f2f2f;
+
+
+
+}
+
+
+/* map container */
+
+#mapContainer{
+
+
+    margin-bottom: 5%;
+
+
+}
+

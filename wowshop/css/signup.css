@@ -1,0 +1,136 @@
+/* sign up and sign in wraper */
+
+.wrap{
+
+    background-color:#363636  ;
+
+}
+
+
+
+
+
+.valid-class{
+    font-size: 2rem;
+
+    color: #A8A7A7;
+
+}
+
+ .error-class{
+
+     font-size: 2rem;
+
+     color: #A8A7A7;
+ }
+
+#login_container{
+
+    padding: 5%;
+
+    margin-bottom: 1.4%;
+}
+
+
+#signup_container{
+    margin-bottom: 1.9%;
+    padding: 5%;
+
+
+}
+
+#signup_form.col-xs-4{
+
+    margin: 5%;
+
+}
+
+/*  form control style  */
+
+.form-control{
+
+    background-color: #474747;
+    color: white;
+    border-color: transparent;
+    border-radius: 0;
+    padding: 5%;
+    height: 50%;
+
+}
+ /* active state */
+.form-control:active{
+
+    background-color: #474747;
+    color: white;
+
+}
+
+/* focus state */
+
+.form-control:focus{
+
+    background-color: #474747;
+    color: white;
+
+}
+
+
+
+/* icon container */
+
+
+.input-group-addon{
+
+
+    background-color: #E8175D;
+    color: white;
+    border-color: transparent;
+
+
+
+}
+
+.input-group{
+
+    margin: 3%;
+
+    font-size: 22px !important;
+}
+
+
+
+/* login button */
+
+#loginButton{
+     position: relative;
+
+     left: 3%;
+
+    font-size: 20px;
+    color:white;
+    background-color:#E8175D;
+    border-color:transparent;
+    border-radius: 0;
+
+}
+
+
+.btn-primary{
+
+    max-width:50%;
+}
+
+
+/* header */
+
+h3.text-left{
+
+    color:#A8A7A7;
+
+}
+
+
+#message,#results{
+
+    color: #A8A7A7;
+}

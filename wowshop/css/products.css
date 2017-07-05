@@ -1,0 +1,78 @@
+
+/*add to cart button */
+.row.products p>a{
+
+
+    background-color: #474747;
+
+    color: #A8A7A7;
+
+    border-color: transparent;
+    border-radius: 0;
+
+    font-size: 2rem;
+
+}
+
+
+/*add to cart hover button*/
+
+.row.products p>a:hover{
+
+
+    background-color:#E8175D;
+
+    color:white;
+
+}
+
+
+.btn-responsive {
+    white-space: normal !important;
+    word-wrap: break-word;
+}
+
+
+/* checkout button */
+
+.table-responsive td >a.btn.btn-info{
+
+    background-color: #474747;
+    color: #A8A7A7;
+    border-color: transparent;
+    border-radius: 0;
+
+
+}
+
+/*checkout button hoover */
+
+.table-responsive td >a.btn.btn-info:hover{
+
+    background-color:#E8175D;
+    color: white;
+
+}
+
+
+/* remove cart link*/
+.remove{
+    color: #E8175D;
+    text-decoration: none;
+
+}
+/* remove cart link hoover */
+.remove:hover{
+    color:#474747;
+    text-decoration: none;
+
+}
+
+/* table container */
+.table-responsive{
+
+    margin-bottom: 15%;
+
+
+}
+
